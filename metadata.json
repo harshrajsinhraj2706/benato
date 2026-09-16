@@ -1,0 +1,6 @@
+{
+  "name": "Benato - Farm Fresh Organic Groceries",
+  "description": "Direct cold-chain organic produce delivery from certified regenerative family farms to your kitchen in 20 minutes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
